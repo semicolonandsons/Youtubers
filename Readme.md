@@ -25,3 +25,4 @@
 | Raf Rasenberg   | https://www.youtube.com/c/rafrasenberg               | https://twitter.com/rafrasenberg | ----- |
 | Amateur Coder   | https://www.youtube.com/c/amateurcoder               | https://twitter.com/immacoder  | Flutter Development |
 | Your Coding Companion    | https://www.youtube.com/channel/UCZxRTvHyN2l9qFdckkdp1jQ      | https://twitter.com/YourCodingComp      |---------|
+| Ayush Kumar Agarwal         | https://www.youtube.com/channel/UC1V9X5_JRu9C2Ftth7cZvWw |https://twitter.com/its_ayush24   |---------|
